@@ -3,7 +3,7 @@
 ## Janji
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Penjelasan Alur
+## Desain Program & Penjelasan Alur
 ### 1. Tambah Mahasiswa (Create)
 Alur:
 - User buka form tambah (form_add.php).
