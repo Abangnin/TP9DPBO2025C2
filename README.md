@@ -4,7 +4,7 @@
 Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Penjelasan Alur
-1. Tambah Mahasiswa (Create)
+### 1. Tambah Mahasiswa (Create)
 Alur:
 - User buka form tambah (form_add.php).
 
@@ -16,7 +16,7 @@ Alur:
 
 - Setelah sukses, halaman redirect ke halaman daftar mahasiswa (index.php).
 
-2. Tampilkan Mahasiswa (Read)
+### 2. Tampilkan Mahasiswa (Read)
 Alur:
 - Halaman index.php akan memanggil ProsesMahasiswa.php.
 
@@ -26,7 +26,7 @@ Alur:
 
 - Tabel ini juga menyertakan tombol Edit dan Hapus.
 
-3. Edit Mahasiswa (Update)
+### 3. Edit Mahasiswa (Update)
 Alur:
 - Di halaman daftar mahasiswa (index.php), user klik tombol Edit di salah satu baris.
 
@@ -46,7 +46,7 @@ Alur:
 
 - Redirect kembali ke halaman daftar mahasiswa.
 
-4. Hapus Mahasiswa (Delete)
+### 4. Hapus Mahasiswa (Delete)
 Alur:
 - User klik tombol Delete di tabel student_index.php.
 
